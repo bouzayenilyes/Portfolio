@@ -99,12 +99,3 @@ To remove an existing field, simply comment out the `<AccordionLayout />` compon
 
 ![alt text](https://github.com/mmouzo/astro-cv-esquelete/blob/main/public/snap-items.png?raw=true)
 
-## Demo
-
-[astro-cv-esquelete](https://astro-cv-esquelete.vercel.app/ "astro-cv-esquelete")
-
- ![alt text](https://github.com/mmouzo/astro-cv-esquelete/blob/main/public/snap_project.webp?raw=true)
-
-## Acknowledgments
-
-I want to thank [@USKhokhar](https://github.com/USKhokhar "@USKhokhar") who did [Astro-Vitae](https://github.com/USKhokhar/astro-vitae "Astro-Vitae") that served as the basis for this project.
